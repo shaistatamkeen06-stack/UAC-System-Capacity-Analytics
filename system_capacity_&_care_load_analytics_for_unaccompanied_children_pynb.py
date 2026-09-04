@@ -716,5 +716,5 @@ kpi_summary.to_csv(
 
 print("KPI Summary saved successfully!")
 
-!pip install streamlit plotly
+
 
